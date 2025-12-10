@@ -1,0 +1,16 @@
+Nesta aula, exploramos o gerenciamento de instâncias no LightSail, focando na configuração de firewall e na instalação do Nginx.
+
+Acesso à Instância:
+  Acessamos a máquina virtual via SSH.
+
+Instalação do Nginx:
+  Instalamos o Nginx e suas dependências.
+  Verificamos o acesso via porta 80.
+
+Firewall e Regras:
+  Testamos o acesso a portas (8000) e confirmamos a existência de um firewall.
+  Acessamos as configurações de rede da instância no LightSail para configurar o firewall.
+  Adicionamos uma regra para a porta 8000 no firewall.
+  Desabilitamos a rede IPv6 (opcional).
+  Testamos novamente o acesso à porta 8000 e confirmamos o funcionamento.
+  Aprendemos a editar e excluir regras do firewall.
