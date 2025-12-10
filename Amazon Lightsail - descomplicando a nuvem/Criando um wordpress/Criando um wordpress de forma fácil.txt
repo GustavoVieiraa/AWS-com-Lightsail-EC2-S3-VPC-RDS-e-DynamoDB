@@ -1,0 +1,5 @@
+Nesta aula, aprendemos a criar uma instância WordPress de forma fácil no Amazon Lightsail.
+
+Primeiro, é necessário ter uma conta na AWS e entender as opções do nível gratuito (free tier). Em seguida, acessamos o Lightsail e navegamos até a aba "Instances" para criar uma nova instância.
+
+Durante a criação, escolhemos a opção "Apps + OS" e selecionamos o WordPress. Mantivemos as configurações padrão, escolhemos o plano de $3,50 (que pode ser gratuito por 3 meses para novas contas) e criamos a instância com o nome "WordPress-1".
