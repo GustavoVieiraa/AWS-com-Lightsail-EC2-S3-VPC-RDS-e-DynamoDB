@@ -1,0 +1,19 @@
+Nesta aula sobre "IP Estático e DNS para o WordPress" no Amazon Lightsail, o instrutor Ricardo Merces ensina como configurar um IP estático para sua instância WordPress e associá-lo a um domínio para facilitar o acesso ao seu site.
+
+Aqui está um resumo dos principais pontos abordados:
+
+Acesso às Credenciais do WordPress:
+  Aprenda a acessar o painel de administração do WordPress utilizando o cliente SSH Web no Lightsail.
+  Descubra como encontrar as credenciais (usuário e senha) no arquivo bitnami_credentials através da linha de comando.
+
+Criação de um IP Estático:
+  Entenda a importância de ter um IP estático para sua instância em produção.
+  Veja como criar e associar um IP estático à sua instância WordPress no Lightsail.
+  Alerta sobre os custos de IPs estáticos não associados a instâncias.
+
+Configuração de DNS com um Domínio:
+  Aprenda a importância de usar um domínio em vez de um IP para o acesso do cliente final.
+  Demonstração de como configurar um domínio no Namecheap, incluindo a criação de um registro A que aponta para o IP estático da sua instância.
+  Uso do comando dig para verificar se o DNS foi propagado corretamente.
+
+Em resumo, a aula ensina como tornar seu site WordPress acessível através de um domínio personalizado, utilizando os recursos de IP estático e DNS do Amazon Lightsail.
