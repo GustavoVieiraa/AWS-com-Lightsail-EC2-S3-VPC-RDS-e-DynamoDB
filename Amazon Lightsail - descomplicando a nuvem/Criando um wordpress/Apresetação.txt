@@ -1,0 +1,5 @@
+Nesta aula de apresentação do curso "Amazon Lightsail: descomplicando a nuvem", o instrutor Ricardo Merces te dá as boas-vindas e apresenta o AWS Lightsail como uma forma mais simples de usar a console da AWS.
+
+Com o Lightsail, você pode utilizar máquinas virtuais, storage, load balancers, fazer deploy de aplicações com poucos cliques e gerenciar contêineres, tudo isso através de uma console mais amigável.
+
+Ao longo do curso, você vai colocar esses conceitos em prática, fazendo deploy de aplicações, subindo máquinas virtuais e explorando outras funcionalidades.
