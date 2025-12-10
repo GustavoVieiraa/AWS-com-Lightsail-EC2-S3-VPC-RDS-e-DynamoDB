@@ -1,0 +1,7 @@
+Nesta aula, exploramos os recursos do Lightsail, desde a exclusão de instâncias e IPs estáticos até a criação de novas máquinas virtuais.
+
+Você aprendeu a escolher regiões e zonas de disponibilidade para suas instâncias, entendendo a importância da redundância para a alta disponibilidade.
+
+Além disso, você criou e configurou chaves SSH para acesso seguro às instâncias Linux e explorou opções de snapshots automáticos e diferentes tipos de máquinas.
+
+Por fim, você aprendeu a se conectar à instância via SSH usando a chave criada e também através do cliente SSH na interface do Lightsail.
